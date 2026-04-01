@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "TikTok Repost Remover",
+    "slug": "tiktok-repost-remover",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FFFFFF",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#8B2D50"
+      },
+      "package": "com.tiktokrepostremover.app",
+      "versionCode": 1,
+      "compileSdkVersion": 35,
+      "targetSdkVersion": 35,
+      "minSdkVersion": 24,
+      "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+      ]
+    },
+    "plugins": ["expo-router"],
+    "scheme": "tiktokrepostremover",
+    "experiments": { "typedRoutes": true }
+  }
+}
