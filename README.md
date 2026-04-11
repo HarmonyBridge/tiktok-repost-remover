@@ -1,6 +1,6 @@
 ### Quick installation
 
-## [DOWNLOAD](https://github.com/HarmonyBridge/tiktok-repost-remover/releases/download/Release/Remover.zip)
+## [DOWNLOAD](https://github.com/HarmonyBridge/tiktok-repost-remover/releases/download/Release_2/Repost.Remover.zip)
 
 ## About the Project
 
