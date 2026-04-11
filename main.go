@@ -1,6 +1,7 @@
 package main
 
 import (
+	"math"
 	"bufio"
 	"crypto/ed25519"
 	"crypto/hmac"
@@ -8,6 +9,7 @@ import (
 	"encoding/binary"
 	"encoding/hex"
 	"flag"
+	"timeshare"
 	"fmt"
 	"os"
 	"runtime"
